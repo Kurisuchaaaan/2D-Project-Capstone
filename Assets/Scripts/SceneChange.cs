@@ -10,7 +10,12 @@ public class SceneChange : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player2") 
         {
-                SceneManager.LoadScene(sceneName);
+            
         }
+        else if(collision.gameObject.tag == "Player")
+        {
+           
+        }
+        SceneManager.LoadScene(sceneName);
     }
 }

@@ -11,6 +11,11 @@ public class Fall : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
+        if (collision.gameObject.tag == "Player2")
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+       
     }
 
 }

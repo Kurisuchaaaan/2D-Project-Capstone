@@ -13,8 +13,14 @@ public class FallingPlatform : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            StartCoroutine(Fall());
+
         }
+        if (collision.gameObject.CompareTag("Player2"))
+        {
+            
+        }
+        StartCoroutine(Fall());
+
     }
 
     private IEnumerator Fall()
