@@ -1,2 +1,2 @@
 # 2D-Project
- 12
+2D Puzzle Platformer Capstone Project
