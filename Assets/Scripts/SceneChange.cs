@@ -8,14 +8,12 @@ public class SceneChange : MonoBehaviour
     [SerializeField] private string sceneName;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Player2") 
+        if (collision.gameObject.tag == "Player2" && collision.gameObject.tag == "Player") 
         {
-            
+            SceneManager.LoadScene(sceneName);
         }
-        else if(collision.gameObject.tag == "Player")
-        {
-           
-        }
-        SceneManager.LoadScene(sceneName);
+        
+
+
     }
 }
