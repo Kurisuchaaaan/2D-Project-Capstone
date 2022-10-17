@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/ThirdScene.unity
     guid: ec44e948feeb3484cb135dbe20ffe190
   - enabled: 1
-    path: Assets/Scenes/FourthScene.unity
+    path: Assets/Scenes/1stLevel.unity
     guid: 9a159e1a10d96d94e8d456834617f324
   - enabled: 1
     path: Assets/Scenes/FifthScene.unity
