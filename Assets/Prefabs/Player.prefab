@@ -159,8 +159,9 @@ MonoBehaviour:
   hurtForce: 10
   cherry: {fileID: 8264280741384922341}
   footstep: {fileID: 8264280741384922342}
-  health: 5
-  healthAmount: {fileID: 0}
+  maxHealth: 100
+  currentHealth: 0
+  healthBar: {fileID: 0}
 --- !u!95 &2321999626724305958
 Animator:
   serializedVersion: 4
