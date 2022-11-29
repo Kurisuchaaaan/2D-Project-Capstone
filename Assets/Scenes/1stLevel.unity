@@ -861,7 +861,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -12980,6 +12979,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8918875905254802289, guid: dcabbafb562f2664eb25b1e2148a5005, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
     - target: {fileID: 8918875905254802290, guid: dcabbafb562f2664eb25b1e2148a5005, type: 3}
       propertyPath: leftCap
       value: 70
@@ -13661,6 +13664,10 @@ PrefabInstance:
       propertyPath: m_FlipY
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8918875905254802289, guid: dcabbafb562f2664eb25b1e2148a5005, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
     - target: {fileID: 8918875905254802290, guid: dcabbafb562f2664eb25b1e2148a5005, type: 3}
       propertyPath: leftCap
       value: 0
@@ -16942,7 +16949,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.0338163, y: 1}
+    m_SensorSize: {x: 2.0280192, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
