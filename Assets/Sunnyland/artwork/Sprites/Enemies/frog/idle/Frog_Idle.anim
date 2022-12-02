@@ -20,15 +20,19 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
+      value: {fileID: 21300000, guid: 86ca59b9bca0e409b9ba2784fbe69f01, type: 3}
     - time: 0.083333336
-      value: {fileID: 21300000, guid: 3dfd309799e9b2447b810d1e990bff85, type: 3}
+      value: {fileID: 21300000, guid: 116ac2caa16ad4f73af4539f8b07d019, type: 3}
     - time: 0.16666667
-      value: {fileID: 21300000, guid: 1c667ab14de7e0e41869fb04831d9be4, type: 3}
+      value: {fileID: 21300000, guid: 662ace939438646e7a4067a89ec54b9e, type: 3}
     - time: 0.25
       value: {fileID: 21300000, guid: 358f671c052b20d489213adef2f39c98, type: 3}
     - time: 0.31666666
       value: {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
+      value: {fileID: 21300000, guid: b0305a6bb0adb4f66b864290967ea22b, type: 3}
+    - time: 0.31666666
+      value: {fileID: 21300000, guid: b0305a6bb0adb4f66b864290967ea22b, type: 3}
+>>>>>>> parent of f4a514b (2/22)
     attribute: m_Sprite
     path: 
     classID: 212
@@ -48,17 +52,28 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
+<<<<<<< HEAD
     - {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
     - {fileID: 21300000, guid: 3dfd309799e9b2447b810d1e990bff85, type: 3}
     - {fileID: 21300000, guid: 1c667ab14de7e0e41869fb04831d9be4, type: 3}
     - {fileID: 21300000, guid: 358f671c052b20d489213adef2f39c98, type: 3}
+<<<<<<< HEAD
     - {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
+=======
+>>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
+=======
+    - {fileID: 21300000, guid: 86ca59b9bca0e409b9ba2784fbe69f01, type: 3}
+    - {fileID: 21300000, guid: 116ac2caa16ad4f73af4539f8b07d019, type: 3}
+    - {fileID: 21300000, guid: 662ace939438646e7a4067a89ec54b9e, type: 3}
+    - {fileID: 21300000, guid: b0305a6bb0adb4f66b864290967ea22b, type: 3}
+    - {fileID: 21300000, guid: b0305a6bb0adb4f66b864290967ea22b, type: 3}
+>>>>>>> parent of f4a514b (2/22)
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.33333334
+    m_StopTime: 0.31666666
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
