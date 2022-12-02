@@ -45,7 +45,6 @@ AnimationClip:
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
-<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 8e5e552 (.)
@@ -53,8 +52,6 @@ AnimationClip:
     - time: 0.31666666
       value: {fileID: 21300000, guid: b0305a6bb0adb4f66b864290967ea22b, type: 3}
 >>>>>>> parent of f4a514b (2/22)
-=======
->>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
     attribute: m_Sprite
     path: 
     classID: 212
@@ -99,8 +96,6 @@ AnimationClip:
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
 >>>>>>> parent of f4a514b (2/22)
-=======
->>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
