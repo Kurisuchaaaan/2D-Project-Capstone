@@ -13459,15 +13459,10 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
 >>>>>>> parent of 8e5e552 (.)
-=======
-=======
->>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
->>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
   m_LocalPosition: {x: 26.213001, y: 0.5369997, z: -9.777573}
 =======
   m_LocalPosition: {x: 26.213001, y: 0.28999996, z: -9.777573}
@@ -13476,19 +13471,14 @@ Transform:
   m_LocalPosition: {x: 26.213001, y: 0.28999996, z: -9.777573}
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
   m_LocalPosition: {x: 26.213001, y: 0.5369997, z: -9.777573}
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
->>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
-=======
   m_LocalPosition: {x: 26.213001, y: 0.5369997, z: -9.777573}
 >>>>>>> parent of f4a514b (2/22)
-=======
->>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16988,9 +16978,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
     m_SensorSize: {x: 2.0338163, y: 1}
@@ -16998,19 +16985,14 @@ MonoBehaviour:
     m_SensorSize: {x: 2.0280192, y: 1}
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
     m_SensorSize: {x: 2.1087582, y: 1}
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
->>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
-=======
     m_SensorSize: {x: 2.1087582, y: 1}
 >>>>>>> parent of f4a514b (2/22)
-=======
->>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -17032,9 +17014,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_LocalPosition: {x: 26.213001, y: 0.5369997, z: -9.777573}
@@ -17045,19 +17024,14 @@ Transform:
   m_LocalPosition: {x: 26.213001, y: 0.28999996, z: -9.777573}
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
   m_LocalPosition: {x: 26.213001, y: 0.5369997, z: -9.777573}
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
->>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
-=======
   m_LocalPosition: {x: 26.213001, y: 0.5369997, z: -9.777573}
 >>>>>>> parent of f4a514b (2/22)
-=======
->>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
