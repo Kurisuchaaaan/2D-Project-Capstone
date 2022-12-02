@@ -49,13 +49,19 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   spritePixelsToUnits: 16
 =======
   spritePixelsToUnits: 10
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
+<<<<<<< HEAD
 =======
   spritePixelsToUnits: 40
 >>>>>>> parent of f4a514b (2/22)
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1

@@ -28082,13 +28082,19 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_LocalPosition: {x: 15.797029, y: -1.37365, z: -9.777573}
 =======
   m_LocalPosition: {x: 15.945723, y: -1.37299, z: -9.777573}
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
+<<<<<<< HEAD
 =======
   m_LocalPosition: {x: 15.945387, y: -1.37297, z: -9.777573}
 >>>>>>> parent of f4a514b (2/22)
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32210,13 +32216,19 @@ MonoBehaviour:
     GateFit: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
     m_SensorSize: {x: 2.1087584, y: 1}
 =======
     m_SensorSize: {x: 2.0280192, y: 1}
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
+<<<<<<< HEAD
 =======
     m_SensorSize: {x: 2.1087582, y: 1}
 >>>>>>> parent of f4a514b (2/22)
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
