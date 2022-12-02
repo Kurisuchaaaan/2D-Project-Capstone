@@ -22,10 +22,20 @@ AnimationClip:
     - time: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
       value: {fileID: 21300000, guid: 4cfd4ca1fc29e0a42a7d14611d349a05, type: 3}
 =======
       value: {fileID: 21300000, guid: ff724b8c0cd611446a734258a5c1c2c1, type: 3}
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
+<<<<<<< HEAD
+=======
+      value: {fileID: 21300000, guid: 5faa28760499aa446871480716cf221d, type: 3}
+>>>>>>> parent of f4a514b (2/22)
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
       value: {fileID: 21300000, guid: 5faa28760499aa446871480716cf221d, type: 3}
 >>>>>>> parent of f4a514b (2/22)
@@ -50,10 +60,20 @@ AnimationClip:
     pptrCurveMapping:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
     - {fileID: 21300000, guid: 4cfd4ca1fc29e0a42a7d14611d349a05, type: 3}
 =======
     - {fileID: 21300000, guid: ff724b8c0cd611446a734258a5c1c2c1, type: 3}
 >>>>>>> 6125e378d072f48784f1347de00680bb8ec59290
+<<<<<<< HEAD
+=======
+    - {fileID: 21300000, guid: 5faa28760499aa446871480716cf221d, type: 3}
+>>>>>>> parent of f4a514b (2/22)
+=======
+>>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
     - {fileID: 21300000, guid: 5faa28760499aa446871480716cf221d, type: 3}
 >>>>>>> parent of f4a514b (2/22)
