@@ -1733,6 +1733,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &187564675
 PrefabInstance:
   m_ObjectHideFlags: 0
