@@ -27483,6 +27483,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 8e5e552 (.)
     - target: {fileID: 8918875905254802289, guid: dcabbafb562f2664eb25b1e2148a5005, type: 3}
@@ -27493,6 +27494,8 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
+>>>>>>> parent of f4a514b (2/22)
+=======
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> parent of f4a514b (2/22)
@@ -28088,6 +28091,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
@@ -28114,6 +28118,9 @@ Transform:
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
+=======
+  m_LocalPosition: {x: 15.945387, y: -1.37297, z: -9.777573}
+>>>>>>> parent of f4a514b (2/22)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32239,6 +32246,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
 =======
@@ -32265,6 +32273,9 @@ MonoBehaviour:
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
+=======
+    m_SensorSize: {x: 2.1087582, y: 1}
+>>>>>>> parent of f4a514b (2/22)
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -71852,6 +71863,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 8e5e552 (.)
     - target: {fileID: 8918875905254802289, guid: dcabbafb562f2664eb25b1e2148a5005, type: 3}
@@ -71862,6 +71874,8 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: f04df66063b3b6241a29522d7703d290, type: 3}
+=======
+>>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> parent of f4a514b (2/22)
 =======

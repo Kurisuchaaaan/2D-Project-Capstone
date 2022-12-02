@@ -3,7 +3,7 @@ guid: 1c618f808836a31489b8f7a17647edf6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -53,6 +53,7 @@ TextureImporter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
 =======
@@ -76,6 +77,9 @@ TextureImporter:
 >>>>>>> parent of 8e5e552 (.)
 =======
 >>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
+=======
+  spritePixelsToUnits: 40
+>>>>>>> parent of f4a514b (2/22)
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -91,6 +95,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
