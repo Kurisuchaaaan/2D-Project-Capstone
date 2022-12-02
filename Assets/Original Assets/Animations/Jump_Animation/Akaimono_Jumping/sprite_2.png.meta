@@ -52,6 +52,9 @@ TextureImporter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
   spritePixelsToUnits: 16
@@ -64,12 +67,15 @@ TextureImporter:
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
+<<<<<<< HEAD
 =======
   spritePixelsToUnits: 40
 >>>>>>> parent of f4a514b (2/22)
 =======
   spritePixelsToUnits: 16
 >>>>>>> parent of 8e5e552 (.)
+=======
+>>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1

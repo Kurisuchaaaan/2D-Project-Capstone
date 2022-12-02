@@ -25,6 +25,9 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
       value: {fileID: 21300000, guid: 1c618f808836a31489b8f7a17647edf6, type: 3}
@@ -37,12 +40,15 @@ AnimationClip:
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
+<<<<<<< HEAD
 =======
       value: {fileID: 21300000, guid: 68e7d9da6a9aa344982902467b45e7d7, type: 3}
 >>>>>>> parent of f4a514b (2/22)
 =======
       value: {fileID: 21300000, guid: 1c618f808836a31489b8f7a17647edf6, type: 3}
 >>>>>>> parent of 8e5e552 (.)
+=======
+>>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
     attribute: m_Sprite
     path: 
     classID: 212
@@ -67,6 +73,9 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
     - {fileID: 21300000, guid: 1c618f808836a31489b8f7a17647edf6, type: 3}
@@ -79,12 +88,15 @@ AnimationClip:
 >>>>>>> parent of f4a514b (2/22)
 =======
 >>>>>>> b164ce2acf006562f1afe99dc98fd4a23b6cab36
+<<<<<<< HEAD
 =======
     - {fileID: 21300000, guid: 68e7d9da6a9aa344982902467b45e7d7, type: 3}
 >>>>>>> parent of f4a514b (2/22)
 =======
     - {fileID: 21300000, guid: 1c618f808836a31489b8f7a17647edf6, type: 3}
 >>>>>>> parent of 8e5e552 (.)
+=======
+>>>>>>> 345bbadabeca256469aa2d06c748ccea9d8fedb3
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
